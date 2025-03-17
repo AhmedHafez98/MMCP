@@ -1,3 +1,0 @@
-/home/ahafez/shared_expand/study/github/MMCP/build/CMakeFiles/rebuild_cache.dir
-/home/ahafez/shared_expand/study/github/MMCP/build/CMakeFiles/edit_cache.dir
-/home/ahafez/shared_expand/study/github/MMCP/build/CMakeFiles/mmcp.dir
